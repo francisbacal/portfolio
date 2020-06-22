@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="container portfolio">
         <portfolio-title :class="{'slide-lr': loading}">Portfolio</portfolio-title>
         <portfolio-works></portfolio-works>
     </div>
@@ -26,6 +26,9 @@
 </script>
 
 <style lang='scss'>
+    .portfolio {
+        margin-top: 150px;
+    }
 
     .slide-lr {
         opacity: 0;

@@ -40,10 +40,15 @@
 
 <style lang="scss">
     .header {
-        position: relative;
-        height: 60px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100px;
         display: block;
+        background: $bg !important;
         margin-bottom: 3rem;
+        z-index: 2;
 
         a {
             font-size: 2rem;

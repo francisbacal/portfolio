@@ -17,13 +17,7 @@
             <div class="col-2">
                 <div class="about-content">
                     <p class="about-content__me">
-                       Graduate of Mechanical Engineering,
-                    </p>
-                    <p class="about-content__me">
-                        but always had the love to code but never had the chance to pursue it until
-                        <span class="about-content__now">
-                            <strong>NOW</strong>
-                        </span>.
+                       Certified full stack web developer currently in Metro Manila, Philippines.
                     </p>
                 </div>
             </div>
@@ -89,7 +83,6 @@
     .about-me {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 3rem;
         margin-bottom: 3rem;
         z-index: 0;
     }
