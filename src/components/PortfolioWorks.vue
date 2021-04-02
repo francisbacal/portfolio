@@ -54,7 +54,7 @@
                     {
                         name: 'AMS | Asset Management System',
                         image: 'ams.png',
-                        demo: 'https://ams-management.herokuapp.com/',
+                        demo: 'https://ams-bax.herokuapp.com/',
                         code: 'https://github.com/francisbacal/ams',
                         techs: 
                         [
